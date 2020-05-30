@@ -1,6 +1,6 @@
 FROM debian
-USER root
+USER test
 
 RUN mkdir -p /tmp/Somsak && 
 
-USER root:
+USER test:
