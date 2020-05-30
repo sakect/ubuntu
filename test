@@ -1,0 +1,6 @@
+FROM debian
+USER root
+
+RUN mkdir -p /tmp/Somsak && 
+
+USER root:
